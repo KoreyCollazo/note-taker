@@ -11,6 +11,8 @@ N/A
 ![Note taker welcome page](/public/assets/images/screenshot.png)
 ![Note taking page](/public/assets/images/screenshot2.png)
 
+![Heroku deployed URL](https://note-taker-0330.herokuapp.com/notes)
+
 
 ## Credits   
 
