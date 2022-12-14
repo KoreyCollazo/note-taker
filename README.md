@@ -21,6 +21,6 @@ N/A
 N/A
 
 ## Questions
-Github: [KoreyCollazo](#https://github.com/KoreyCollazo)
+Github: [KoreyCollazo](https://github.com/KoreyCollazo)
 
-If you have any questions or wish to contact me, please reach out [here](Koreycollazo@gmail.com).
+If you have any questions or wish to contact me, please reach out to Koreycollazo@gmail.com 
